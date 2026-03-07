@@ -18,7 +18,7 @@ A Laravel-based automation system that detects inactive users (no login for 7 da
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rajesh-mondal/inventory.git
+git clone https://github.com/rajesh-mondal/inactive-user-reminder.git
 cd inactive-user-reminder
 ```
 
